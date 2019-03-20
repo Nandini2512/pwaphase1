@@ -1,0 +1,49 @@
+{
+
+  "basics":{
+    "img":"images/download.jpg",
+    "name":"chinnu",
+    "email":"chinnu888@gmail.com"
+
+  },
+  "career":
+  {
+    "info":"i want to seek a position where i can explore my thoughts and skills for the benifits of organization"
+  },
+  "educational_details":[
+  {"sno":"1",
+    "degree":"btech",
+    "institute":"abcd",
+    "percentage":"90%",
+    "year":"2019"
+  },
+  {"sno":"2",
+    "degree":"inter",
+    "institute":"ertyu",
+    "percentage":"98%",
+    "year":"2016"
+
+  },
+  {"sno":"3",
+    "degree":"ssc",
+    "institute":"acvb",
+    "percentage":"95%",
+    "year":"2010"
+
+  }
+],
+"skills":[
+{"info":"c"
+},
+{
+  "info":"c++"
+},
+{
+  "info":"java"
+},
+{
+  "info":"html"
+}
+]
+
+}
